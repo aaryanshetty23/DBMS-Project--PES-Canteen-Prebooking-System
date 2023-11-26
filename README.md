@@ -21,12 +21,14 @@ source "placeholder_path"
 
 Make sure to replace the placeholder_path with the copied path
 
-###3. Run the Application:
+### 3. Run the Application:
 Open the terminal in the code folder.
 Run the following command to start the application using Streamlit:
 
-streamlit run final.py
+```bash
+     streamlit run final.py
+```
 
-You acan now use the PESU CANTEEN PREBOOKING SYSTEM on the browser.
+You can now use the PESU CANTEEN PREBOOKING SYSTEM on the browser.
 
-----Created By Aaryan Shetty and Adithya Mahesh
+## ----Created By Aaryan Shetty and Adithya Mahesh
